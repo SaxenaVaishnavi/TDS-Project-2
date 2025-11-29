@@ -18,8 +18,8 @@ An intelligent, autonomous agent built with LangGraph and LangChain that solves 
 
 ## 📋 Table of Contents
 
-- [Overview](##overview)
-- [Architecture](##architecture)
+- [Overview](#-overview)
+- [Architecture](#-architecture)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
