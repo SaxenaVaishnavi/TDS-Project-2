@@ -18,8 +18,8 @@ An intelligent, autonomous agent built with LangGraph and LangChain that solves 
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Architecture](#architecture)
+- [Overview](##overview)
+- [Architecture](##architecture)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -384,7 +384,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Author**: Sai Vijay Ragav 
+**Author**: Vaishnavi Saxena
+**Contributor**: Sai Vijay Ragav 
 **Course**: Tools in Data Science (TDS)
 **Institution**: IIT Madras
 
